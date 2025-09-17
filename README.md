@@ -110,52 +110,9 @@ The Neon Galaxy Design Studio website is a modern, animated, neon-themed web por
 * Contact form with input validation and hover effects on the submit button.
 * Fixed header with neon navigation links.
 
-## 4. File Structure
 
-```
-neon-galaxy-website/
-├── index.html         # Main HTML file
-├── style.css          # CSS styling and animations
-├── script.js          # JavaScript scroll animations and form handling
-├── images/            # Folder containing background images
-│   ├── home.jpg
-│   ├── about.jpg
-│   └── contact.jpg
-└── README.pdf         # Project documentation (this file)
-```
-
-## 5. Deployment Steps
-
-1. **GitHub Pages:**
-
-   * Create a new GitHub repository.
-   * Upload all project files and folders.
-   * Go to repository Settings → Pages → Select `main` branch → Save.
-   * Your website will be live at `https://username.github.io/repository-name/`.
-
-2. **Netlify:**
-
-   * Sign up at netlify.com.
-   * Drag-and-drop the project folder to the Netlify dashboard.
-   * Netlify will provide a live URL immediately.
-
-## 6. Customization Instructions
-
-* To change images, replace the files in the `images/` folder and update the CSS `background-image` URLs.
-* Modify colors or neon effects in `style.css`.
-* Update text content in `index.html`.
-* Add more sections by copying a `<section>` element and adjusting IDs and content.
-
-## 7. Notes
-
-* Ensure all image paths are correct when moving folders.
-* Test the website on multiple devices to verify responsiveness.
-* Use lightweight images to improve load times.
-
----
+ 5. Deployment (LIVE LINK)
+https://neongalaxy.netlify.app/
 
 **Prepared by:** Brimic Tech Solutions
 **Date:** September 2025
-
-* Successful live deployment with a working link
-* Evidence of following best practices
